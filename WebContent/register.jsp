@@ -114,7 +114,7 @@
 					</div>
 				</div>
 				<div class="login-link">
-					<p>Already have an account? <a href="./Login.jsp">Login Here</a></p>
+					<p>Already have an account? <a href="./login.jsp">Login Here</a></p>
 				</div>
 			</form>
 		</div>
